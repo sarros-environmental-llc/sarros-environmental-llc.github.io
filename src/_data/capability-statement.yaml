@@ -1,0 +1,103 @@
+---
+company: 
+  name: Sarros Environmental, LLC
+  tagline: Environmental & Geologic Consulting
+  address: 
+    street: 149 Thrasher Road
+    city: Chesapeake
+    state: VA
+    zip: 23320
+  tel: 7575609051
+  url: www.SarrosEnvironmental.com
+designations:
+  - title: Virginia Professional Geologist Certification
+    id: "001943"
+  - title: VA SWaM
+    id: "709524"
+  - title: eVA
+    id: "VS0000137902"
+  - title: DUNS
+    id: "07 917 3612"
+  - title: Cage Code
+    id: "70DL2"
+experience:
+  - title: Construction Environmental Manager
+    summary: "GPC JV – I64 Widening and High Rise Bridge Project"
+  - title: Hazmat Program Manager
+    summary: "VDOT Hampton Roads District"
+  - title: Environmental Contractor Quality Control Manager
+    summary: "McLean Contracting Company / USACE"
+  - title: Environmental Program Manager
+    summary: "Froehling & Robertson, Inc."
+  - title: Consulting Project Manager
+    summary: "IMS Environmental Services"
+  - title: Senior Geologist
+    summary: "VA Department of Environmental Quality"
+contact:
+  name: "Michael J. Sarros"
+  titles:
+    - "Principal Geologist"
+    - "Environmental Manager"
+  tel: 7575609051
+  email: "Michael.Sarros@SarrosEnvironmental.com"
+capabilities:
+  - title: Environmental
+    experience:
+      - "Project Management"
+      - "Phase I & II Site Assessments, Investigations, and Reporting, UST/AST Investigations, SWPPP, SPCC"
+      - "Permitting & Document Writing"
+      - "Monitoring & Sampling (air, water, soil)"
+  - title: Compliance
+    experience:
+      - "Environmental & Safety Compliance and Audits"
+      - "Erosion and Sediment Control & Stormwater Compliance and Inspections"
+      - "SWPPP Construction Compliance & Monitoring"
+      - "UST/AST Compliance & Asbestos Inspections"
+  - title: Waste Management
+    experience:
+      - "Hazardous Materials & Hazardous Waste Management, HAZWOPER & Env Training"
+      - "Solid Waste"
+      - "Waste Minimization"
+      - "Pollution Prevention"
+  - title: Geological
+    experience:
+      - "Site Assessments and Investigations"
+      - "Percolation Testing"
+      - "Hazard Analysis and Interpretations"
+      - "Geological Mapping"
+differentiators:
+  - title: Unique blend of Experience
+    qualities:
+      - Environmental Consulting
+      - Environmental Regulations
+      - Environmental Program Management
+      - Facility Environmental Compliance
+  - title: Small Business Advantage
+    qualities:
+      - "Worked Both Large & Small Construction Projects"
+      - Relatable to Your Specific Needs
+      - Flexibility and Adaptability
+      - Less Policy and More Personable Approach
+highlights:
+  - client: GPC JV
+    role: Construction Environmental Manager
+    duration: 1 yr
+  - client: McLean
+    role: "SWPPP/E&S Facility and Compliance Consultant"
+    duration: 9 yrs
+  - client: VDEQ
+    role: Sr. Geologist, Petroleum Tank Program
+    duration: 3 yrs
+  - client: "Froehling & Robertson, Inc"
+    role: "Environmental Program Manager (Chesapeake Branch)"
+    duration: 3 yrs
+  - client: Virginia Dept of Transportation
+    role: Hazardous Materials Program Manager
+    duration: 8 yrs
+  - client: "USACE & EPA Subcontractor with McLean Contracting Company"
+    role: Environmental Contractor Quality Control Manager for a Superfund Construction Contract W91236-11-R- 0020
+    duration: 2.5 yrs
+  - client: Nauticus & Battleship Ex-Wisconsin
+    role: EPA Compliance Air Monitoring
+    duration: 6 yrs
+---
