@@ -2,7 +2,7 @@
 layout: master
 title: Capability Statement
 image-url: "/assets/photos/michael-sarros-demolition.jpg"
-headline: SWaM-certified Environmental Engineering Contractor
+headline: SWaM-certified Environmental Consulting
 ---
 
 <div class="card my-3">
@@ -114,6 +114,21 @@ headline: SWaM-certified Environmental Engineering Contractor
                     <li>6 years</li>
                 </ul>
             </div>
+        </div>
+    </div>
+</div>
+<div class="card my-3">
+    <h2 class="card-header">Previous Specific Roles</h2>
+    <div class="card-body small">
+        <div class="row row-cols-1 row-cols-md-2 g-3">
+            {% for role in roles %}
+                <div class="col">
+                    <h3 class="card-title h6">{{ role.title }}</h3>
+                    <ul class="list-unstyled">
+                        {{ role.client }}
+                    </ul>
+                </div>
+            {% endfor %}
         </div>
     </div>
 </div>

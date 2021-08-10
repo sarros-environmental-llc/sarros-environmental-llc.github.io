@@ -12,15 +12,35 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
 </head>
 <body>
+<header class="py-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-2 col-lg-3"> <img src="{{ "/assets/brand/sarros-logo-image.png" | url }}" alt="" class="img-fluid"></div>
+            <div class="col-md">
+                <h1 class="text-uppercase h5">Sarros Environmental, LLC</h1>
+                <p>Environmental & Geologic Consulting</p>
+                <address>
+                    149 Thrasher Road, Chesapeake, VA 23320
+                    <br>(757) 560-9051
+                    <br>SarrosEnvironmental.com
+                </address>
+
+            </div>
+            <div class="col-md">
+                <section id="swam-certified" class="small text-center">
+                    <img src="{{ "/assets/logos/SWaM.jpg" | url }}" alt="" class="img-fluid w-50 text-center my-1">
+                    <p class="fst-italic fw-bold">A Virginia Certified Small and Micro-Business</p>
+                </section>
+            </div>
+        </div>
+    </div>
+</header>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-            <div class="navbar-brand">
-                <span class="text-uppercase">Sarros Environmental, LLC</span>
-            </div>
             <ul class="navbar-nav">
                 <li class="nav-item">
                     <a class="nav-link" href="{{ "/" | url }}">Home</a>
@@ -54,7 +74,7 @@
                 </div>
             </article>
             <aside class="col-md-4">
-                Aside
+
             </aside>
         </div>
     </div>
@@ -86,10 +106,6 @@
             </div>
             <div class="col-md-4">
                 <h2 class="h6 text-center">CORPORATE DATA</h2>
-                <section id="swam-certified" class="small text-center">
-                    <img src="{{ "/assets/logos/SWaM.jpg" | url }}" alt="" class="img-fluid w-50 text-center my-1">
-                    <p class="fst-italic fw-bold">A Virginia Certified Small and Micro-Business</p>
-                </section>
 
                 <section id="company-snapshot">
                     <header class="">
@@ -132,25 +148,6 @@
                 </section>
             </div>
             <div class="col-md-4">
-                <section>
-                    <header>
-                        <h2 class="h6 text-uppercase text-center">Previous Specific Roles</h2>
-                    </header>
-                    <dl class="text-start">
-                        <dt>Construction Environmental Manager</dt>
-                        <dd>GPC JV – I64 Widening and High Rise Bridge Project</dd>
-                        <dt>Hazmat Program Manager</dt>
-                        <dd>VDOT Hampton Roads District</dd>
-                        <dt>Environmental Contractor Quality Control Manager</dt>
-                        <dd>McLean Contracting Company / USACE</dd>
-                        <dt>Environmental Program Manager</dt>
-                        <dd>Froehling & Robertson, Inc.</dd>
-                        <dt>Consulting Project Manager</dt>
-                        <dd>IMS Environmental Services</dd>
-                        <dt>Senior Geologist</dt>
-                        <dd>VA Department of Environmental Quality</dd>
-                    </dl>
-                </section>
             </div>
         </div>
     </div>
