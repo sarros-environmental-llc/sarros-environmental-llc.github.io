@@ -54,28 +54,26 @@
                 <li class="nav-item">
                     <a class="nav-link" href="{{ "/training" | url }}">Training</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ "/learning" | url }}">Learning</a>
+                </li>
             </ul>
         </div>
     </div>
 </nav>
 <main class="py-3">
     <div class="container">
-        {% if image-url %}
-        <header style="background-image: linear-gradient(to bottom, rgba(18,42, 66, .72), rgba(18,42, 66, .33)), url({{ image-url | url }}); background-size: cover; min-height: 72vh; background-position: 66% 50%" class="p-5 text-light">
-            {% else %}
-        <header>
-            {% endif %}
-            <h1>{{ headline }}</h1>
+        <header {% if image-url %}style="background-image: linear-gradient(to bottom, rgba(18,42, 66, .72), rgba(18,42, 66, .33)), url({{ image-url | url }}); background-size: cover; min-height: 72vh; background-position: 66% 50%" class="p-5 text-light"{% endif %}>
+            <h1 class="d3">{{ headline }}</h1>
         </header>
-        <div class="row mt-3">
-            <article class="col-md-8">
-                <div class="">
-                    {{ content }}
-                </div>
-            </article>
-            <aside class="col-md-4">
-
-            </aside>
+        <div class="container">
+            <div class="row mt-3">
+                <article class="col-md-8 px-5">
+                    <div class="">
+                        {{ content }}
+                    </div>
+                </article>
+            </div>
         </div>
     </div>
 </main>
@@ -106,7 +104,6 @@
             </div>
             <div class="col-md-4">
                 <h2 class="h6 text-center">CORPORATE DATA</h2>
-
                 <section id="company-snapshot">
                     <header class="">
                         <h3 class="h6 text-center">COMPANY SNAPSHOT</h3>

@@ -4,11 +4,9 @@ title: Capability Statement
 image-url: "/assets/photos/michael-sarros-demolition.jpg"
 headline: SWaM-certified Environmental Consulting
 ---
-
 <div class="card my-3">
     <h2 class="card-header">Capabilities</h2>
     <div class="card-body">
-
         <h3>Environmental</h3>
         <ul class="">
             <li>Project Management</li>
@@ -16,7 +14,6 @@ headline: SWaM-certified Environmental Consulting
             <li>Reporting, UST/AST Investigations, SWPPP, SPCC •Permitting & Document Writing</li>
             <li>Monitoring & Sampling (air, water, soil)</li>
         </ul>
-
         <h3>Compliance</h3>
         <ul>
             <li>Environmental & Safety Compliance and Audits</li>
@@ -121,14 +118,12 @@ headline: SWaM-certified Environmental Consulting
     <h2 class="card-header">Previous Specific Roles</h2>
     <div class="card-body small">
         <div class="row row-cols-1 row-cols-md-2 g-3">
-            {% for role in roles %}
-                <div class="col">
+            {% for role in roles %}<div class="col">
                     <h3 class="card-title h6">{{ role.title }}</h3>
                     <ul class="list-unstyled">
                         {{ role.client }}
                     </ul>
-                </div>
-            {% endfor %}
+                </div>{% endfor %}
         </div>
     </div>
 </div>
