@@ -1,5 +1,5 @@
 ---
-layout: master
+layout: home
 headline: Virginia Certified Environmental and Geologic Consulting
 image-url: "/assets/photos/michael-sarros-demolition-excavator.jpg"
 ---
@@ -13,18 +13,29 @@ image-url: "/assets/photos/michael-sarros-demolition-excavator.jpg"
     <a href="{{ "/capability-statement" | url }}">environmental capacities</a>. Michael Sarros is a <em class="fs-italic">multi-dimensional, results oriented, Certified Professional Geologist, Environmental Project Manager, Certified E&S and Stormwater Inspector, and Hazardous Materials Specialist</em>.
 </div>
 
-## Environmental Compliance Services
+<h2>Environmental Compliance Services</h2>
 
-Sarros Environmental, LLC, provides environmental compliance services with over 30 years of experience and expertise in all aspects of environmental consulting, engineering, remediation, environmental laws, permitting, and regulations.  Services include coordination and compliance with municipality policies, Virginia Dept. of Transportation (VDOT) policies and specifications, environmental programs, and procedures.
+<p>Sarros Environmental, LLC, provides environmental compliance services with over 30 years of experience and expertise
+    in all aspects of environmental consulting, engineering, remediation, environmental laws, permitting, and
+    regulations. Services include coordination and compliance with municipality policies, Virginia Dept. of
+    Transportation (VDOT) policies and specifications, environmental programs, and procedures.</p>
 
-## Environmental Management Services
+<h2>Environmental Management Services</h2>
 
-We provide full environmental management services for our client’s projects including operational facilities and construction projects.  Construction environmental management may include transportation infrastructure construction projects or facility building construction projects.  We have experience on multiple large and small scale projects, including environmentally sensitive (Superfund & Wetlands) construction projects under the direction of the US Army Corps of Engineers, the Environmental Protection Agency, VDOT, the Virginia Department of Environmental Quality, and local municipalities.
+<p>We provide full environmental management services for our client’s projects including operational facilities and
+    construction projects. Construction environmental management may include transportation infrastructure construction
+    projects or facility building construction projects. We have experience on multiple large and small scale projects,
+    including environmentally sensitive (Superfund & Wetlands) construction projects under the direction of the US Army
+    Corps of Engineers, the Environmental Protection Agency, VDOT, the Virginia Department of Environmental Quality, and
+    local municipalities.
+</p>
+<h2>All-around Expertise</h2>
 
-## All-around Expertise
-
-Sarros Environmental, LLC, focuses on both facility and project environmental consulting and compliance at the local, state, and federal levels, project efficiency and facility operational efficiencies through pollution prevention, environmental audits, process improvements, environmental training, environmental inspections (C-107 in VDOT transportation projects, E&S, and SWPPP for facilities and transportation projects).
-
+<p>Sarros Environmental, LLC, focuses on both facility and project environmental consulting and compliance at the
+    local, state, and federal levels, project efficiency and facility operational efficiencies through pollution
+    prevention, environmental audits, process improvements, environmental training, environmental inspections (C-107 in
+    VDOT transportation projects, E&S, and SWPPP for facilities and transportation projects).
+</p>
 ## What Sets Us Apart
 
 ### Small Business, Big Results
