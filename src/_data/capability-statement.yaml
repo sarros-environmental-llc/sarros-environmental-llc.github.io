@@ -1,8 +1,8 @@
 ---
-company: 
+company:
   name: Sarros Environmental, LLC
   tagline: Environmental & Geologic Consulting
-  address: 
+  address:
     street: 149 Thrasher Road
     city: Chesapeake
     state: VA
@@ -100,4 +100,3 @@ highlights:
   - client: Nauticus & Battleship Ex-Wisconsin
     role: EPA Compliance Air Monitoring
     duration: 6 yrs
----
